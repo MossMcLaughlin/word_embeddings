@@ -20,7 +20,7 @@ Any outside words that are above a similarity threshold are replaced by their si
     Replacing albeit with somewhat
     Replacing aid with help
        
-Note this is run with a small vocabulary and low similarity theshold. Typically we only want to replace more obscure, more similar words.
+Note this is run with a small vocabulary and low similarity threshold. Typically we only want to replace more obscure, more similar words.
 
 
 Special thanks for GloVe: Jeffrey Pennington and Richard Socher and Christopher D. Manning. 2014 
