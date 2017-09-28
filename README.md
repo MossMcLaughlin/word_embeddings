@@ -1,6 +1,6 @@
-# word_embeddings
+## Word Embeddings for Deep Learning 
 
-Load pre-trained GloVe word embeddings for use in a recurrent neural network.<br>
+This notebook loads pre-trained GloVe word embeddings for use in a recurrent neural network.<br>
 External libraries used include numpy,nltk<br><br>
 
 Training data is read and an embedding matrix is constructed out to the most common word tokens. Embeddings are pre-trained vectors of 50,100,200, or 300 dimensions from Stanford's Global Vectors for Word Representation,<a href=https://nlp.stanford.edu/projects/glove/> GloVe.</a><br><br>
